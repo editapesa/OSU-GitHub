@@ -6,6 +6,6 @@ Some core skills applied in creating this portfolio were flexbox, media queries,
 
 This portfolio does not contain deployed web applications (only placeholder images and names), but will in the future as projects get completed.
 
-The portfolio can be viewed here. [portfolio] (https://www.etc.com)
+The portfolio can be viewed here. [portfolio] (https://editapesa.github.io/homework-2/)
 
-! [portfolio demo] (../where/nameoffile)
+! [portfolio demo] (assets\images\website-screenshot.png)
